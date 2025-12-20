@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .env
+# Python bytecode
+__pycache__/
+*.pyc
