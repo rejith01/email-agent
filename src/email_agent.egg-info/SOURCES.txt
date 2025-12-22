@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/email_agent/__init__.py
+src/email_agent/executor.py
+src/email_agent/graph.py
+src/email_agent/graph_nodes.py
+src/email_agent/llm.py
+src/email_agent/prompts.py
+src/email_agent/router.py
+src/email_agent/state.py
+src/email_agent.egg-info/PKG-INFO
+src/email_agent.egg-info/SOURCES.txt
+src/email_agent.egg-info/dependency_links.txt
+src/email_agent.egg-info/top_level.txt

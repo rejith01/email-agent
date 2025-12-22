@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: email-agent
+Version: 0.1.0
+Summary: Email agent built with LangGraph
+Requires-Python: >=3.10
